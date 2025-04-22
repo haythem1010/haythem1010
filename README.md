@@ -5,7 +5,7 @@ I'm a your enthusiastic Data Scientist, passionate about AI and how it can resha
 
 ### 🔧 Technical Skills
 - **Languages**: Python, SQL, Django
-- ** Business Intelligence** : Talend ETL, PowerBI, R .
+- **Business Intelligence** : Talend ETL, PowerBI, R .
 - **Frameworks/Tools**: Pandas, NumPy, PyTorch/TensorFlow, Git, OpenCV, ScikLearn
 - **Domains**: Algorithmic Trading, Backtesting, Data Analysis, Machine Learning
 - **Other**: CI/CD, Cloud (AWS/GCP), APIs
