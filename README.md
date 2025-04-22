@@ -23,6 +23,6 @@ Here are some highlights:
 - [Email](mailto:haythem.selmi@outlook.be)
 
 ### 🔎 Currently...
-- 🌱 Learning: [e.g., *Advanced Machine Learning*]  
-- 💼 Working on: [e.g., *A new backtesting framework*]  
-- 🤔 Open to collaborations on: [e.g., *quant finance, automation tools*]  
+- 🌱 Learning: Generative Artificial  Intelligence
+- 💼 Working on: Eductioanl Platform for IT students and profesionals. 
+- 🤔 Open to collaborations on: any ambitious project with large room of improvement. 
