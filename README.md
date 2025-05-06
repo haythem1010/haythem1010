@@ -3,8 +3,13 @@
 ### 🚀 About Me
 I'm a your enthusiastic Data Scientist, passionate about AI and how it can reshape our perspective on finance and crypto. I love solving complex problems and building tools that make an impact.
 
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/haythem-selmi/)
+- [Email](mailto:haythem.selmi@outlook.be)
+
 ### 🔧 Technical Skills
-- **Languages**: Python, SQL, Django
+- **Programming**: Python, Django, JavaScript
+-  **Database Management** : SQL, GraphQL , MongoDB
 - **Business Intelligence** : Talend ETL, PowerBI, R .
 - **Frameworks/Tools**: Pandas, NumPy, PyTorch/TensorFlow, Git, OpenCV, ScikLearn
 - **Domains**: Algorithmic Trading, Backtesting, Data Analysis, Machine Learning
@@ -17,10 +22,6 @@ Here are some highlights:
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=haythem1010&show_icons=true&theme=radical)
-
-### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/haythem-selmi/)
-- [Email](mailto:haythem.selmi@outlook.be)
 
 ### 🔎 Currently...
 - 🌱 Learning: Generative Artificial  Intelligence
