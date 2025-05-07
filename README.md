@@ -7,6 +7,9 @@ I'm a your enthusiastic Data Scientist, passionate about AI and how it can resha
 - [LinkedIn](https://www.linkedin.com/in/haythem-selmi/)
 - [Email](mailto:haythem.selmi@outlook.be)
 
+### 🏅 Certifications 
+- [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/451b7b48-2269-43e7-9466-c695f74ed3ed/) 
+
 ### 🔧 Technical Skills
 - **Programming**: Python, Django, JavaScript
 -  **Database Management** : SQL, GraphQL , MongoDB
